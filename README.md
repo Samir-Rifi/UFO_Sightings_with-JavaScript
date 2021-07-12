@@ -19,7 +19,7 @@ As you can see below, we were able to display only the UFO activity matching our
 
 ## SUMMARY:
 
-# Limitations:
+### Limitations:
 
 One drawback of this page is that the criteria specified in the filter has to exactly match how it is entered in the database. 
 Let’s go back to our previous example. Let’s say we entered in the state field “CA” instead of “ca”. No data is displayed, while we know that there was UFO activity reported in the state of California on that Date we selected and in the shape we selected:
@@ -30,7 +30,7 @@ Let’s take another example using the previous criteria selection. Let’s say 
 
 ![](ana4.png)
 
-# Additional recommendations:
+### Additional recommendations:
 
 To further improve the search engine on the webpage, we can suggest for example:
 
